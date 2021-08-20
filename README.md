@@ -14,6 +14,6 @@ creators.
 
 ![Cover image for Ionic Android blog post](Blog%20Covers/Ionic%20Android/ionic-build-without-android-studio.png)
 
-![Cover image for Sass Vite React blog post](Blog%20Covers/Sass%20Vite%20React/sass-vite-react.png)
-
 ![Cover image for Bootstrap Ionic blog post](Blog%20Covers/Bootstrap%20Ionic/bootstrap-ionic.png)
+
+![Cover image for Sass Vite React blog post](Blog%20Covers/Sass%20Vite%20React/sass-vite-react.png)
