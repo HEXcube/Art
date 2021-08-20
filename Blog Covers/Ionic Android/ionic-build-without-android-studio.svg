@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1500"
+   height="630"
+   viewBox="0 0 1500 630"
+   id="svg6"
+   sodipodi:docname="ionic-build-without-android-studio.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="0.65459689"
+     inkscape:cx="740.0164"
+     inkscape:cy="295.67984"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs10"><linearGradient
+   id="paint0_linear"
+   x1="6.00017"
+   y1="32.9999"
+   x2="235"
+   y2="344"
+   gradientUnits="userSpaceOnUse">
+  <stop
+     stop-color="#41D1FF"
+     id="stop902" />
+  <stop
+     offset="1"
+     stop-color="#BD34FE"
+     id="stop904" />
+</linearGradient>
+<linearGradient
+   id="paint1_linear"
+   x1="194.651"
+   y1="8.81818"
+   x2="236.076"
+   y2="292.989"
+   gradientUnits="userSpaceOnUse">
+  <stop
+     stop-color="#FFEA83"
+     id="stop907" />
+  <stop
+     offset="0.0833333"
+     stop-color="#FFDD35"
+     id="stop909" />
+  <stop
+     offset="1"
+     stop-color="#FFA800"
+     id="stop911" />
+</linearGradient>
+<style
+   type="text/css"
+   id="style864"><![CDATA[
+	.cls-1{fill:#478aff;}
+      ]]></style>
+
+	
+
+
+		
+		
+	
+			
+		</defs>
+  <title
+     id="title2">Ionic Android cover image for DEV post</title>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Ionic Android cover image for DEV post</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Rohan &quot;HEXcube&quot; Villoth</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Cover image for DEV post</dc:description>
+        <cc:license
+           rdf:resource="" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Rohan &quot;HEXcube&quot; Villoth</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#333333"
+     id="rect844"
+     width="1500"
+     height="630" />
+  <g
+     id="g899"
+     transform="matrix(1.7718773,0,0,1.7718773,619.76603,284.82038)">
+    <path
+       class="cls-1"
+       d="m 107.75,222.5 a 33.5,33.5 0 1 0 33.5,33.5 33.54,33.54 0 0 0 -33.5,-33.5 z"
+       transform="translate(-34.25,-182.5)"
+       id="path870" />
+    <circle
+       class="cls-1"
+       cx="121.6"
+       cy="27.709999"
+       r="15.26"
+       id="circle872" />
+    <path
+       class="cls-1"
+       d="m 174.64,225.55 -0.64,-1.4 -1,1.16 a 23,23 0 0 1 -9.21,6.34 l -1,0.36 0.4,1 A 60.09,60.09 0 1 1 133.48,201.8 l 0.94,0.45 0.41,-1 a 23,23 0 0 1 6.78,-8.89 l 1.2,-1 -1.37,-0.71 a 72.68,72.68 0 0 0 -33.7,-8.19 73.51,73.51 0 1 0 66.89,43 z"
+       transform="translate(-34.25,-182.5)"
+       id="path874" />
+  </g>
+  <path
+     d="m 810.38714,199.53324 c -6.02515,0 -10.92627,-4.90459 -10.92627,-10.92982 0,-6.02523 4.90112,-10.92628 10.92627,-10.92628 6.02536,0 10.92627,4.90105 10.92627,10.92628 0,6.02523 -4.90091,10.92982 -10.92627,10.92982 m -120.77423,0 c -6.02538,0 -10.92627,-4.90459 -10.92627,-10.92982 0,-6.02523 4.90089,-10.92628 10.92627,-10.92628 6.02515,0 10.92625,4.90105 10.92625,10.92628 0,6.02523 -4.90111,10.92982 -10.92625,10.92982 m 124.69308,-65.82016 21.83826,-37.82177 c 1.25195,-2.17392 0.50714,-4.95069 -1.66324,-6.2061 -2.17035,-1.25186 -4.95068,-0.50713 -6.20609,1.66323 l -22.11142,38.30052 c -16.909,-7.71684 -35.89959,-12.015 -56.1636,-12.015 -20.26377,0 -39.25437,4.29816 -56.16337,12.015 l -22.1114,-38.30052 c -1.25544,-2.17036 -4.03575,-2.91509 -6.20613,-1.66323 -2.17035,1.25541 -2.91862,4.03218 -1.66321,6.2061 l 21.83824,37.82177 c -37.49896,20.39503 -63.14611,58.35866 -66.89809,103.20929 H 881.20406 C 877.44864,192.07173 851.80149,154.10811 814.306,133.71308"
+     id="path857"
+     style="fill:#3ddb85" />
+</svg>

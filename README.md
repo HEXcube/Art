@@ -1,5 +1,5 @@
 # Art
-Artworks and previews for my projects
+Artworks and previews for my projects, blogs and articles
 
 ### LICENSE
 Except where otherwise noted, all original content here are released under
