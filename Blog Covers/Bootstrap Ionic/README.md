@@ -1,4 +1,4 @@
-Cover image for the blog post: https://dev.to/rohanvilloth/why-bootstrap-utilities-makes-your-ionic-development-easier-3kfb
+Cover image for the blog post: https://dev.to/RohanVilloth/why-bootstrap-utilities-makes-your-ionic-development-easier-3kfb
 
 ### CREDITS
 Created from logos of [Bootstrap](https://worldvectorlogo.com/downloaded/bootstrap-4) and [Ionic](https://commons.wikimedia.org/wiki/File:Ionic_Logo.svg)
